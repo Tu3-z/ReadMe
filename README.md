@@ -11,12 +11,13 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="30" height="30" alt="Spring Boot Animation" />
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="30" height="30" alt="PostgreSQL Animation" />
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30" height="30" alt="Python Animation" />
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30" height="30" alt="Java Animation" />
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="30" height="30" alt="HTML5 Animation" />
+  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30" height="30" alt="Spring Boot Animation" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="30" height="30" alt="PostgreSQL Animation" />
+  <img src="https://media.giphy.com/media/4N1ZbLtcIvzrE/giphy.gif" width="30" height="30" alt="Python Animation" />
+  <img src="https://media.giphy.com/media/l4KhSajRyX9UyRWhK/giphy.gif" width="30" height="30" alt="Java Animation" />
+  <img src="https://media.giphy.com/media/xThtalpvKXXgPiHnji/giphy.gif" width="30" height="30" alt="HTML5 Animation" />
 </p>
+
 
 - 🌱 Atualmente estou aprendendo **SpringBoot** e **PostgreSQL**
 - 💼 Trabalhando como **Desenvolvedor Freelancer**
