@@ -17,7 +17,7 @@
 - 😄 Pronomes: Ele/Dele
 
  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tu3-z&show_icons=true&theme=blueberry" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tu3-z&layout=compact&theme=blueberry" width="300" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tu3-z&show_icons=true&theme=blueberry" alt="GitHub Stats" width="400"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tu3-z&layout=compact&theme=blueberry" alt="Linguagens Mais Usadas" width="400"  />
 </div>
 
