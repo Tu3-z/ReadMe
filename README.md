@@ -16,10 +16,8 @@
 - 📫 Como entrar em contato comigo: (arthurgoncalvesa2022@gmail.com)
 - 😄 Pronomes: Ele/Dele
 
- <p align="center">
+ <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tu3-z&show_icons=true&theme=blueberry" alt="GitHub Stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tu3-z&layout=compact&theme=blueberry" alt="Linguagens Mais Usadas" />
-</p>
+</div>
 
