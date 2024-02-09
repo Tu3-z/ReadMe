@@ -12,6 +12,10 @@
 
 
 - 🌱 Atualmente estou aprendendo **SpringBoot** e **PostgreSQL**
-- 💼 Trabalhando como **Desenvolvedor Freelancer**
-- 📫 Como entrar em contato comigo: (mailto:arthurgoncalvesa2022@gmail.com)
+- 💼 Trabalhando como **Desenvolvedor Freelancer BackEnd**
+- 📫 Como entrar em contato comigo: (arthurgoncalvesa2022@gmail.com)
 - 😄 Pronomes: Ele/Dele
+
+- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tu3-z&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
