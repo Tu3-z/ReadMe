@@ -11,11 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30" height="30" alt="Spring Boot Animation" />
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="30" height="30" alt="PostgreSQL Animation" />
-  <img src="https://media.giphy.com/media/4N1ZbLtcIvzrE/giphy.gif" width="30" height="30" alt="Python Animation" />
-  <img src="https://media.giphy.com/media/l4KhSajRyX9UyRWhK/giphy.gif" width="30" height="30" alt="Java Animation" />
-  <img src="https://media.giphy.com/media/xThtalpvKXXgPiHnji/giphy.gif" width="30" height="30" alt="HTML5 Animation" />
+  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="400" alt="Programação Animation" />
 </p>
 
 
