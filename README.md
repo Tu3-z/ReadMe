@@ -22,7 +22,3 @@
 - 💼 Trabalhando como **Desenvolvedor Freelancer**
 - 📫 Como entrar em contato comigo: (mailto:arthurgoncalvesa2022@gmail.com)
 - 😄 Pronomes: Ele/Dele
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
